@@ -18,7 +18,7 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-It is a complete java application for chatting .It is very basic.Just for trying out java.
+It is a complete java application for chatting .It is very basic.Just for trying out java.It is a basic client server set up where messages can be send between client and server.
 
 #### Technologies
 
